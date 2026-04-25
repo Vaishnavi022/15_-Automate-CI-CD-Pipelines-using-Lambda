@@ -118,20 +118,6 @@ git push
 
 ---
 
-## 📸 Screenshots
-
-> 📁 Store all images inside `images/` folder
-
-### 🖼️ Image Names
-
-* `01_s3_bucket_created.png`
-* `02_lambda_function_created.png`
-* `03_lambda_code.png`
-* `04_pipeline_creation.png`
-* `05_pipeline_success.png` ⭐ (Final Output)
-
----
-
 ## 🖼️ Final Output
 
 ![Final Output](images/pipeline_success.png)
